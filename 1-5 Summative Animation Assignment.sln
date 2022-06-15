@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5 Summative Animation Assignment", "1-5 Summative Animation Assignment.csproj", "{B41D3E13-A710-49FA-8972-60C19C95FE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41D3E13-A710-49FA-8972-60C19C95FE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41D3E13-A710-49FA-8972-60C19C95FE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41D3E13-A710-49FA-8972-60C19C95FE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41D3E13-A710-49FA-8972-60C19C95FE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91862EB9-B9BB-4C03-A1AD-BFEA46F0FBD0}
+	EndGlobalSection
+EndGlobal

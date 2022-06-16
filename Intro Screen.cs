@@ -12,7 +12,7 @@ namespace _1_5_Summative_Animation_Assignment
         private Rectangle _rectangle;
         private Vector2 _speed;
 
-        public Tribble(Texture2D texture, Rectangle rect, Vector2 speed)
+        public Intro_Screen(Texture2D texture, Rectangle rect, Vector2 speed)
         {
             _texture = texture;
             _rectangle = rect;
